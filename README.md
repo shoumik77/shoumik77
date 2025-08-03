@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Python` `C++` `JavaScript`  `SQL` `MATLAB`
+`Python` `C++` `JavaScript`  `SQL` 
 
 **Frameworks & Libraries:**  
 `React` `Node.js` `Flask` `Qt` `Scikit-learn` `OpenCV` `MediaPipe` `PyQt5` `Tailwind CSS` `NumPy` `Matplotlib`

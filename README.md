@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Shoumik Bisoi
+#  Hi, I'm Shoumik Bisoi
 
-🎓 I'm a Computer Science student at **Virginia Tech** (Class of 2027), passionate about building high-impact software that bridges the gap between data, intelligence, and user experience.
+ I'm a Computer Science student at **Virginia Tech** (Class of 2027), passionate about building high-impact software that bridges the gap between data, intelligence, and user experience.
 ---
 
-## 🚀 Current Projects
+##  Current Projects
 
 - 🎧 **[TheCrate.app](https://thecrate.app)** – An AI-powered sample discovery platform using GPT-4 and the Spotify API. Helping music producers find rare and high-quality samples by translating vague prompts into targeted, ranked tracklists.
 - 🧠 **DisasterMap AI** *(In Progress)* – An emergency response intelligence system that uses NLP, RAG techniques, and real-time mapping to analyze citizen reports and aid first responders.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 What I'm Learning
+##  What I'm Learning
 
 - Deep dive into **LLM applications** with **Retrieval-Augmented Generation (RAG)** and transformer-based NLP.
 - Building scalable, performant **backend services** using **FastAPI**, **PostgreSQL**, and **Docker**.
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 - 🥈 **2nd Place @ Virginia TSA Hackathon** – Built a heart disease predictive app with real-time patient risk UI and ML models.
 - 📄 **Published AI Research** – Motion-tracking system for student-athlete physical therapy featured in IJSSER.
@@ -46,6 +46,4 @@
 - 🧑‍💻 [GitHub](https://github.com/shoumik77)
 - 📬 Email: mikbisoi@gmail.com
 
----
 
-> _“Build what solves a real problem, and let curiosity lead the way.”_

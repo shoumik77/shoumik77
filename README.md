@@ -6,7 +6,7 @@
 ##  Current Projects
 
 - 🎧 **[TheCrate.app](https://thecrate.app)** – An AI-powered sample discovery platform using GPT-4 and the Spotify API. Helping music producers find rare and high-quality samples by translating vague prompts into targeted, ranked tracklists.
-- 🧠 **DisasterMap AI** *(In Progress)* – An emergency response intelligence system that uses NLP, RAG techniques, and real-time mapping to analyze citizen reports and aid first responders.
+- 🧠 **Queue** *(In Progress)* – An App allowing Djs to process and approve live requests in real time.
 - 🌐 **Custom C++ Qt Web Browser** – Built a lightweight, multi-tab browser with full HTTP networking, REST API integration, and <500ms cold-start performance.
 
 ---

@@ -6,7 +6,7 @@ I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested i
 
 * **Reference VST** *(In Progress)* – Building an audio plugin for producers to load reference tracks and compare frequency balance, loudness, and other sonic characteristics directly inside their DAW.
 
-* **Project Allstar** – Built a peer-to-peer sports prediction platform where users take positions against each other instead of a traditional house. Designed an **order book, matching engine, settlement system, and transaction ledger** backed by PostgreSQL.
+* **Allstar** – A peer-to-peer sports prediction platform where users take positions against each other instead of a traditional house. Designed an **order book, matching engine, settlement system, and transaction ledger** backed by PostgreSQL.
 
 * [**TheCrate.app**](https://thecrate.app/) – AI-powered sample discovery platform that uses **GPT-4 and the Spotify API** to turn natural-language prompts into targeted track recommendations for music producers.
 

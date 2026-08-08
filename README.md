@@ -1,6 +1,6 @@
 # Hi, I'm Shoumik Bisoi
 
-I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested in building software at the intersection of **systems, data, and real-world user experiences**. Outside of software engineering, I'm a DJ and music producer, which has pushed me toward building tools for music and audio.
+I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested in building software at the intersection of **systems, data, and real-world user experiences**. 
 
 ## What I'm Working On
 

@@ -8,9 +8,6 @@ I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested i
 
 * **Allstar** – A peer-to-peer sports prediction platform where users take positions against each other instead of a traditional house. Designed an **order book, matching engine, settlement system, and transaction ledger** backed by PostgreSQL.
 
-* [**TheCrate.app**](https://thecrate.app/) – AI-powered sample discovery platform that uses **GPT-4 and the Spotify API** to turn natural-language prompts into targeted track recommendations for music producers.
-
-* **Custom C++ Qt Web Browser** – Built a lightweight multi-tab browser in **C++17 and Qt 6** with HTTP networking, REST API integration, and sub-500ms cold-start performance.
 
 ---
 

@@ -1,49 +1,70 @@
-#  Hi, I'm Shoumik Bisoi
+# Hi, I'm Shoumik Bisoi
 
- I'm a Computer Science student at **Virginia Tech** (Class of 2027), passionate about building high-impact software that bridges the gap between data, intelligence, and user experience.
----
+I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested in building software at the intersection of **systems, data, and real-world user experiences**. Outside of software engineering, I'm a DJ and music producer, which has pushed me toward building tools for music and audio.
 
-##  Current Projects
+## What I'm Working On
 
-- 🎧 **[TheCrate.app](https://thecrate.app)** – An AI-powered sample discovery platform using GPT-4 and the Spotify API. Helping music producers find rare and high-quality samples by translating vague prompts into targeted, ranked tracklists.
-- 🧠 **Queue** *(In Progress)* – An App allowing Djs to process and approve live requests in real time.
-- 🌐 **Custom C++ Qt Web Browser** – Built a lightweight, multi-tab browser with full HTTP networking, REST API integration, and <500ms cold-start performance.
+* **Reference VST** *(In Progress)* – Building an audio plugin for producers to load reference tracks and compare frequency balance, loudness, and other sonic characteristics directly inside their DAW.
 
----
+* **Project Allstar** – Built a peer-to-peer sports prediction platform where users take positions against each other instead of a traditional house. Designed an **order book, matching engine, settlement system, and transaction ledger** backed by PostgreSQL.
 
-## 🛠 Tech Stack
+* [**TheCrate.app**](https://thecrate.app/) – AI-powered sample discovery platform that uses **GPT-4 and the Spotify API** to turn natural-language prompts into targeted track recommendations for music producers.
 
-**Languages:**  
-`Python` `C++` `JavaScript`  `SQL` 
-
-**Frameworks & Libraries:**  
-`React` `Node.js` `Flask` `Qt` `Scikit-learn` `OpenCV` `MediaPipe` `PyQt5` `Tailwind CSS` `NumPy` `Matplotlib`
-
-**Tools & Platforms:**  
-`Git` `Docker` `GCP` `AWS` `Firebase` `MongoDB` `PostgreSQL` `REST APIs` `OpenAI GPT-4 API`
+* **Custom C++ Qt Web Browser** – Built a lightweight multi-tab browser in **C++17 and Qt 6** with HTTP networking, REST API integration, and sub-500ms cold-start performance.
 
 ---
 
-##  What I'm Learning
+## Experience
 
-- Deep dive into **LLM applications** with **Retrieval-Augmented Generation (RAG)** and transformer-based NLP.
-- Building scalable, performant **backend services** using **FastAPI**, **PostgreSQL**, and **Docker**.
-- Exploring **offline-first collaboration** and **real-time CRDT-based editing** with WebRTC and Y.js.
+### Software Engineering Intern @ Breakthrough
 
----
+Worked on production software supporting transportation and energy-management workflows.
 
-##  Highlights
-
-- 🥈 **2nd Place @ Virginia TSA Hackathon** – Built a heart disease predictive app with real-time patient risk UI and ML models.
-- 📄 **Published AI Research** – Motion-tracking system for student-athlete physical therapy featured in IJSSER.
-- 🌍 Built and deployed **multiple full-stack web apps** in production using React, Flask, and Node.js (Stripe, Railway, Vercel).
+* Built automated end-to-end testing with **Playwright**, reducing repetitive QA work by **10+ hours per week**.
+* Developed features for an energy management dashboard using **TypeScript and React**.
+* Worked across **GraphQL APIs, frontend systems, and production deployment workflows**.
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shoumik-bisoi/)
-- 🧑‍💻 [GitHub](https://github.com/shoumik77)
-- 📬 Email: mikbisoi@gmail.com
+**Languages**
+`Python` `TypeScript` `JavaScript` `C++` `Java` `SQL`
 
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
 
+**Backend**
+`FastAPI` `Flask` `Node.js` `GraphQL` `REST APIs`
+
+**Data & Infrastructure**
+`PostgreSQL` `Supabase` `MongoDB` `Docker` `GCP` `AWS`
+
+**Other**
+`Git` `Playwright` `Qt` `Scikit-learn` `OpenCV` `MediaPipe` `Y.js`
+
+---
+
+## Interests
+
+* **Music & Audio Software** – DSP, audio plugins, music discovery, and tools for producers and DJs.
+* **Backend & Systems Engineering** – Matching engines, distributed systems, APIs, and scalable backend architecture.
+* **Applied AI** – Building AI features that solve concrete problems rather than adding AI for its own sake.
+* **Real-Time & Offline-First Systems** – CRDTs, collaborative applications, synchronization, and peer-to-peer systems.
+
+---
+
+## Highlights
+
+* **2nd Place @ Virginia TSA Hackathon** – Built a heart-disease prediction application combining machine learning with an interactive patient-risk interface.
+* **Published AI Research** – Developed a motion-tracking system for student-athlete physical therapy published in IJSSER.
+* **Software Engineering Intern @ Breakthrough** – Contributed to production systems used across transportation and energy-management workflows.
+* Built **TheCrate.app**, used by **300+ music producers** to discover **10,000+ samples**.
+
+---
+
+## Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/shoumik-bisoi/)
+* [GitHub](https://github.com/shoumik77)
+* [mikbisoi@gmail.com](mailto:mikbisoi@gmail.com)

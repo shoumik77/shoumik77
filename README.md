@@ -1,18 +1,141 @@
-# 💫 About Me:
-I'm a Computer Science student at Virginia Tech, and a lot of my projects start with getting annoyed that something I want doesn't exist. I'm also a DJ and music producer, which led me to build Parity, an open-source C++ audio plugin for comparing mixes against reference tracks, and experiment with building version control for Ableton projects.<br><br>Outside of music software, I've built a peer-to-peer sports betting platform with an order-matching engine, a sample discovery tool used by over 300 music producers, and everything from web applications to a browser written in C++ with Qt. I've also worked professionally as a software engineering intern, building full-stack features and automated testing infrastructure.<br><br>Lately, I've been getting more interested in systems programming, performance, and contributing to open-source projects like JUCE. I enjoy understanding what's happening under the hood, and I have a habit of turning small inconveniences into projects that end up being much more complicated than I originally planned.
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shoumik77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shoumik77&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shoumik77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Hey, I'm Shoumik 👋
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shoumik77&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**Computer Science @ Virginia Tech | Software Engineer | DJ & Music Producer**
+
+*I build software for problems that probably didn't need custom software.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-shoumik77-181717?style=flat-square&logo=github)](https://github.com/shoumik77)
+![Profile Views](https://komarev.com/ghpvc/?username=shoumik77&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shoumik77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I'm a Computer Science student at **Virginia Tech**, and most of my projects start with getting annoyed that something I want doesn't exist.
+
+I'm also a **DJ and music producer**, which has led me down some interesting engineering rabbit holes — from building audio plugins in C++ to experimenting with version control for Ableton projects.
+
+Outside of music software, I've built a peer-to-peer sports betting platform with an order-matching engine, a sample discovery tool used by 300+ producers, and even a web browser in C++.
+
+I've also worked professionally as a software engineering intern, developing full-stack applications and automated testing infrastructure.
+
+These days, I'm especially interested in **systems programming, performance optimization, audio software, and open-source development**. I like understanding what's happening under the hood, even when that means turning a weekend project into a month-long engineering problem.
+
+---
+
+### 🚀 What I've Been Building
+
+#### 🎚️ Parity — Reference Track Audio Plugin
+**C++ · JUCE · CMake · DSP**
+
+An open-source audio plugin for comparing mixes against reference tracks.
+
+- Loudness-matched A/B comparison using EBU R128
+- FFT-based spectral analysis and time alignment
+- DAW-synchronized reference playback
+- Built with C++ and the JUCE framework
+
+#### 🎵 Ableton Version Control
+**Rust · Systems Programming**
+
+Exploring what Git-like version control could look like for music production.
+
+- Tracking changes across Ableton projects
+- Experimenting with project versioning and history
+- Bridging software engineering workflows with music production
+
+#### 🏈 Project Allstar — P2P Sports Betting
+**TypeScript · PostgreSQL · React**
+
+A peer-to-peer sports betting platform with a custom order-matching engine.
+
+- Price-time priority order matching
+- Position tracking and settlement logic
+- Transaction ledger and weekly balances
+
+#### 📦 TheCrate — AI Sample Discovery
+**Python · Spotify API · GPT-4**
+
+A music discovery tool built to help producers spend less time searching and more time creating.
+
+- Used by **300+ music producers**
+- Helped discover **10,000+ samples**
+- Combined music metadata with AI-powered discovery
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+
+**Frameworks & Libraries**
+
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=flat-square)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=shoumik77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shoumik77&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=shoumik77&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🌱 Currently Exploring
+
+- Low-level systems programming in **C++ and Rust**
+- Digital signal processing and real-time audio
+- Open-source contributions to **JUCE**
+- Developer tools for music production
+- Performance optimization and software architecture
+
+---
+
+<div align="center">
+
+*When I'm not writing code, I'm probably making music, DJing, or thinking of another project I don't have time to finish.*
+
+</div>

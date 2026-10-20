@@ -28,44 +28,25 @@ These days, I'm especially interested in **systems programming, performance opti
 
 ---
 
+
 ### 🚀 What I've Been Building
 
-#### 🎚️ Parity — Reference Track Audio Plugin
-**C++ · JUCE · CMake · DSP**
+**🎚️ [Parity](https://github.com/shoumik77?tab=repositories&q=Parity) — Reference Track Audio Plugin**  
+`C++` `JUCE` `CMake` `DSP`  
+Open-source audio plugin featuring loudness-matched A/B comparison, FFT spectral analysis, and DAW-synchronized playback.
 
-An open-source audio plugin for comparing mixes against reference tracks.
+**🎵 [Ableton Version Control](https://github.com/shoumik77?tab=repositories&q=Ableton) — Git for Music Production**  
+`Rust` `Systems Programming`  
+Exploring Git-like version control for Ableton projects, including project history, change tracking, and version management.
 
-- Loudness-matched A/B comparison using EBU R128
-- FFT-based spectral analysis and time alignment
-- DAW-synchronized reference playback
-- Built with C++ and the JUCE framework
+**🏈 [Project Allstar](https://github.com/shoumik77?tab=repositories&q=Allstar) — P2P Sports Betting Platform**  
+`TypeScript` `React` `PostgreSQL`  
+Built a peer-to-peer betting platform with a price-time priority order-matching engine, position tracking, and settlement logic.
 
-#### 🎵 Ableton Version Control
-**Rust · Systems Programming**
+**📦 [TheCrate](https://thecrate.app) — AI-Powered Sample Discovery**  
+`Python` `GPT-4` `Spotify API`  
+Music discovery platform used by **300+ producers**, helping uncover **10,000+ samples**.
 
-Exploring what Git-like version control could look like for music production.
-
-- Tracking changes across Ableton projects
-- Experimenting with project versioning and history
-- Bridging software engineering workflows with music production
-
-#### 🏈 Project Allstar — P2P Sports Betting
-**TypeScript · PostgreSQL · React**
-
-A peer-to-peer sports betting platform with a custom order-matching engine.
-
-- Price-time priority order matching
-- Position tracking and settlement logic
-- Transaction ledger and weekly balances
-
-#### 📦 TheCrate — AI Sample Discovery
-**Python · Spotify API · GPT-4**
-
-A music discovery tool built to help producers spend less time searching and more time creating.
-
-- Used by **300+ music producers**
-- Helped discover **10,000+ samples**
-- Combined music metadata with AI-powered discovery
 
 ---
 

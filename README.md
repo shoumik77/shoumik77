@@ -8,7 +8,7 @@
 *I build software for problems that probably didn't need custom software.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-shoumik77-181717?style=flat-square&logo=github)](https://github.com/shoumik77)
-![Profile Views](https://komarev.com/ghpvc/?username=shoumik77&color=blueviolet&style=flat-square)
+
 
 </div>
 

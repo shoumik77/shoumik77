@@ -1,67 +1,18 @@
-# Hi, I'm Shoumik Bisoi
-
-I'm a **Computer Science student at Virginia Tech (Class of 2027)** interested in building software at the intersection of **systems, data, and real-world user experiences**. 
-
-## What I'm Working On
-
-* **Reference VST** *(In Progress)* – Building an audio plugin for producers to load reference tracks and compare frequency balance, loudness, and other sonic characteristics directly inside their DAW.
-
-* **Allstar** – A peer-to-peer sports prediction platform where users take positions against each other instead of a traditional house. Designed an **order book, matching engine, settlement system, and transaction ledger** backed by PostgreSQL.
+# 💫 About Me:
+I'm a Computer Science student at Virginia Tech, and a lot of my projects start with getting annoyed that something I want doesn't exist. I'm also a DJ and music producer, which led me to build Parity, an open-source C++ audio plugin for comparing mixes against reference tracks, and experiment with building version control for Ableton projects.<br><br>Outside of music software, I've built a peer-to-peer sports betting platform with an order-matching engine, a sample discovery tool used by over 300 music producers, and everything from web applications to a browser written in C++ with Qt. I've also worked professionally as a software engineering intern, building full-stack features and automated testing infrastructure.<br><br>Lately, I've been getting more interested in systems programming, performance, and contributing to open-source projects like JUCE. I enjoy understanding what's happening under the hood, and I have a habit of turning small inconveniences into projects that end up being much more complicated than I originally planned.
 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shoumik77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shoumik77&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shoumik77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Experience
-
-### Software Engineering Intern @ Breakthrough
-
-Worked on production software supporting transportation and energy-management workflows.
-
-* Built automated end-to-end testing with **Playwright**, reducing repetitive QA work by **10+ hours per week**.
-* Developed features for an energy management dashboard using **TypeScript and React**.
-* Worked across **GraphQL APIs, frontend systems, and production deployment workflows**.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shoumik77&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shoumik77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tech Stack
-
-**Languages**
-`Python` `TypeScript` `JavaScript` `C++` `Java` `SQL`
-
-**Frontend**
-`React` `Next.js` `Tailwind CSS`
-
-**Backend**
-`FastAPI` `Flask` `Node.js` `GraphQL` `REST APIs`
-
-**Data & Infrastructure**
-`PostgreSQL` `Supabase` `MongoDB` `Docker` `GCP` `AWS`
-
-**Other**
-`Git` `Playwright` `Qt` `Scikit-learn` `OpenCV` `MediaPipe` `Y.js`
-
----
-
-## Interests
-
-* **Music & Audio Software** – DSP, audio plugins, music discovery, and tools for producers and DJs.
-* **Backend & Systems Engineering** – Matching engines, distributed systems, APIs, and scalable backend architecture.
-* **Applied AI** – Building AI features that solve concrete problems rather than adding AI for its own sake.
-* **Real-Time & Offline-First Systems** – CRDTs, collaborative applications, synchronization, and peer-to-peer systems.
-
----
-
-## Highlights
-
-* **2nd Place @ Virginia TSA Hackathon** – Built a heart-disease prediction application combining machine learning with an interactive patient-risk interface.
-* **Published AI Research** – Developed a motion-tracking system for student-athlete physical therapy published in IJSSER.
-* **Software Engineering Intern @ Breakthrough** – Contributed to production systems used across transportation and energy-management workflows.
-* Built **TheCrate.app**, used by **300+ music producers** to discover **10,000+ samples**.
-
----
-
-## Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/shoumik-bisoi/)
-* [GitHub](https://github.com/shoumik77)
-* [mikbisoi@gmail.com](mailto:mikbisoi@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

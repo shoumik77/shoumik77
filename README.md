@@ -3,9 +3,8 @@
 
 # Hey, I'm Shoumik 👋
 
-**Computer Science @ Virginia Tech | Software Engineer | DJ & Music Producer**
+**Computer Science @ Virginia Tech | Software Engineer 
 
-*I build software for problems that probably didn't need custom software.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-shoumik77-181717?style=flat-square&logo=github)](https://github.com/shoumik77)
 

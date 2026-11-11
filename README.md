@@ -39,13 +39,11 @@ Open-source audio plugin featuring loudness-matched A/B comparison, FFT spectral
 `Rust` `Systems Programming`  
 Exploring Git-like version control for Ableton projects, including project history, change tracking, and version management.
 
-**🏈 [Project Allstar](https://github.com/shoumik77?tab=repositories&q=Allstar) — P2P Sports Betting Platform**  
+**🏈 [Allstar](https://github.com/shoumik77?tab=repositories&q=Allstar) — P2P Sports Betting Platform**  
 `TypeScript` `React` `PostgreSQL`  
 Built a peer-to-peer betting platform with a price-time priority order-matching engine, position tracking, and settlement logic.
 
-**📦 [TheCrate](https://thecrate.app) — AI-Powered Sample Discovery**  
-`Python` `GPT-4` `Spotify API`  
-Music discovery platform used by **300+ producers**, helping uncover **10,000+ samples**.
+
 
 
 ---
